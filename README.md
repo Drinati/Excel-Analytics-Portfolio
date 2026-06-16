@@ -198,7 +198,30 @@ The project transformed raw data into **actionable business insights** that supp
 ---
 <img width="1022" height="455" alt="image" src="https://github.com/user-attachments/assets/e5f3afbd-1c34-481d-a0d0-814da397b6a2" />
 
-<div align="center">
+### 🚲 Customer Demographics Analysis
+
+### 📊 Project Overview
+
+This PivotTable summarises **bike sales** by **age group** and **customer gender**, helping identify purchasing patterns across different customer segments.
+
+The analysis demonstrates how PivotTables can be used to quickly aggregate, compare, and explore sales data to support business decision-making.
+
+---
+### 📸 Project Screenshot
+<img width="826" height="358" alt="image" src="https://github.com/user-attachments/assets/2033d40a-2f94-4e04-a3a2-af95ee445702" />
+
+---
+## 📈 Sales Analysis with PivotTables & SWITCH Function
+
+This project demonstrates how Excel can be used to summarise and categorise business data using **PivotTables** and the **SWITCH** function.
+
+The dataset contains sales information for multiple products across counties in England. The analysis provides a clear summary of regional sales performance while automatically classifying products into **High**, **Medium**, or **Low** sales categories based on predefined business rules.
+
+### 📸 Project Screenshots
+<img width="988" height="422" alt="image" src="https://github.com/user-attachments/assets/1eed1314-b4b8-4ca5-b13e-df6c82e70481" />
+
+<img width="1092" height="477" alt="image" src="https://github.com/user-attachments/assets/5bc4e688-38dc-4342-b88a-946bb3bf5496" />
+
 
 ### ⭐ Thanks for visiting my portfolio!
 
