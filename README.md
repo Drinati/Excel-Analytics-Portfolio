@@ -172,8 +172,7 @@ From **Retail Sales** and **Bike Sales** to **Hurricane Analysis** and **Human R
 
 ## 👨‍💻 About Me
 
-I'm Driheli, a Data Technician Bootcamp student with a passion for transforming data into actionable insights.
-
+📊 Data Technician Bootcamp graduate passionate about data analysis and continuous learning, building projects with Excel, SQL, Python, and Power BI. 🚀
 My goal is to continue developing my skills in:
 
 📊 Data Analytics
