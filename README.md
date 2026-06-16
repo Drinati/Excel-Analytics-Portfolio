@@ -172,7 +172,7 @@ From **Retail Sales** and **Bike Sales** to **Hurricane Analysis** and **Human R
 
 ## 👨‍💻 About Me
 
-I'm Félix, a Data Technician Bootcamp student with a passion for transforming data into actionable insights.
+I'm Driheli, a Data Technician Bootcamp student with a passion for transforming data into actionable insights.
 
 My goal is to continue developing my skills in:
 
