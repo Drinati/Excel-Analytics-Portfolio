@@ -188,6 +188,15 @@ My goal is to continue developing my skills in:
 and build a career as a **Data Technician / Data Analyst**.
 
 ---
+## 🛒 Retail Sales Analysis Project
+
+### 📊 Project Overview
+
+The project transformed raw data into **actionable business insights** that support data-driven decision-making. 🚀
+
+### 📸 Project Screenshot
+---
+<img width="1022" height="455" alt="image" src="https://github.com/user-attachments/assets/e5f3afbd-1c34-481d-a0d0-814da397b6a2" />
 
 <div align="center">
 
